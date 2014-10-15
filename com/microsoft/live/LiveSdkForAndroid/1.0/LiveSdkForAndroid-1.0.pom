@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.microsoft.live</groupId>
+  <artifactId>LiveSdkForAndroid</artifactId>
+  <version>1.0</version>
+  <name>LiveSdk for Android</name>
+  <description>LiveSdk for Android</description>
+  <url>https://github.com/liveservices/LiveSDK-for-Android</url>
+  <licenses>
+    <license>
+      <name>Microsoft Public License (Ms-PL)</name>
+      <url>http://www.microsoft.com/en-us/openness/licenses.aspx</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>liveservices</id>
+      <name>Microsoft</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:liveservices/LiveSDK-for-Android.git</connection>
+    <developerConnection>scm:git@github.com:liveservices/LiveSDK-for-Android.git</developerConnection>
+    <url>https://github.com/liveservices/LiveSDK-for-Android</url>
+  </scm>
+</project>
