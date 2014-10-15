@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.microsoft.onenote</groupId>
+  <artifactId>OneNotePicker-Android</artifactId>
+  <version>1.0</version>
+  <name>OneNotePicker-Android</name>
+  <description>OneNotePickerLibrary for Android </description>
+  <url>https://github.com/OneNoteDev/OneNotePicker-Android</url>
+  <licenses>
+    <license>
+      <name>Microsoft Public License (Ms-PL)</name>
+      <url>http://www.microsoft.com/en-us/openness/licenses.aspx</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>OneNoteDev</id>
+      <name>Microsoft</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:OneNoteDev/OneNotePicker-Android.git</connection>
+    <developerConnection>scm:git@github.com:OneNoteDev/OneNotePicker-Android.git</developerConnection>
+    <url>https://github.com/OneNoteDev/OneNotePicker-Android</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>support-v4</artifactId>
+      <version>20.+</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>appcompat-v7</artifactId>
+      <version>20.+</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
